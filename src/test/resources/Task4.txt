@@ -1,0 +1,2 @@
+.//*[@class='search3__inner']/button  Xpath
+ button mini-suggest__button  CSS
